@@ -1,0 +1,36 @@
+{
+  "monstruos": [
+    {
+      "id": 2,
+      "nombre": "Rimuru",
+      "tipo": "Bruja",
+      "miedo": "91",
+      "alias": "Slime Lord",
+      "defensa": "Estaca"
+    },
+    {
+      "id": 4,
+      "nombre": "Frankestein",
+      "tipo": "Zombie",
+      "miedo": "24",
+      "alias": "Franky",
+      "defensa": "Pocion"
+    },
+    {
+      "id": 6,
+      "nombre": "Dracula",
+      "tipo": "Vampiro",
+      "miedo": "8",
+      "alias": "El conde",
+      "defensa": "Estaca"
+    },
+    {
+      "id": 7,
+      "nombre": "Momia",
+      "tipo": "Vampiro",
+      "miedo": "9",
+      "alias": "The mummy",
+      "defensa": "Plata"
+    }
+  ]
+}
